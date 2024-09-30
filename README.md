@@ -1,6 +1,6 @@
 # iThoughtsX Themes
 
-These are the themes I’ve been using with [iThoughtsX](https://www.toketaware.com/ithoughts-osx), each of which is a lightly-adjusted variation of @flegfleg’s [compact-ithoughtsx-theme](https://github.com/flegfleg/compact-ithoughtsx-theme) collection.
+These are the themes I’ve been using with [iThoughtsX](https://www.toketaware.com/ithoughts-osx), each of which is (I think?) a lightly-adjusted variation of @flegfleg’s [compact-ithoughtsx-theme](https://github.com/flegfleg/compact-ithoughtsx-theme) collection.
 
 ## compact-dark-berkeley
 
